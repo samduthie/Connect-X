@@ -1,9 +1,8 @@
-import constants as state
 import unittest
 
 from connectz import connectz
 from connectz import GameBoard
-
+import constants as state
 
 class TestConnectZWithGames(unittest.TestCase):
     '''
